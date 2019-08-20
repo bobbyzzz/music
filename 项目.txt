@@ -1,0 +1,14 @@
+pc
+
+http://www.jxno1.cn/exqFrame.jsp?url=%2F%2Ffkcy25.demo.webportal.top%2F%3F_as_r%3Dhttp%3A%2F%2Fwww.jxno1.cn%2Freg.jsp%26_as_m%3Dhttp%3A%2F%2Fwww.jxno1.cn%2Fmodel.jsp%26
+
+mobile
+网易云音乐
+接口https://binaryify.github.io/NeteaseCloudMusicApi/#/
+推荐音乐
+   1.推荐音乐
+   2.推荐新音乐
+排行榜
+   1.
+   2.
+   3.
